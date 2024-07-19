@@ -1,0 +1,6 @@
+Summary of work done: Week 8
+•Started preparing the dataset for single pixel images.
+•Developed code for splitting and merging image into single pixels and then create the image from merging all single pixel images.
+
+Plans for next week:
+•Complete creating the dataset and then start training the model for single pixel images.
